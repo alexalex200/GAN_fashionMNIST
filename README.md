@@ -52,3 +52,10 @@ The goal is to train a generator capable of producing realistic **64x64 grayscal
 
 ## 📊 Sample Output
 During training, the script will display **real** and **generated** images for visual comparison.
+
+## 🖼️ Example Results
+![Generated Samples - Bags](Results/bag.png)
+![Generated Samples - Boots](Results/boot.png)
+![Generated Samples - Pollovers](Results/pullover.png)
+![Generated Samples - Trousers](Results/trouser.png)
+![Generated Samples - T-Shirts](Results/T-Shirt.png)
